@@ -5,3 +5,5 @@
 3	Write a program for Strassen’s Matrix Multiplication.	
 
 4	Write a program for Job Sequencing with Deadlines.	
+
+5 Write a program for Single Source Shortest Path using Dijkstra’s Algorithm.	
